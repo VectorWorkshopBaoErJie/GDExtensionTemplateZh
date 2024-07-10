@@ -9,8 +9,6 @@
 
  CMake 常用于 C++ 开源项目，此项目为构建 Godot 扩展提供一个替代 _scons_ 系统的选择 (如果你使用 _scons_ ，可以查看 Nathan Franke 的 [gdextension](https://github.com/nathanfranke/gdextension) 模板或 Patrick 的 [GDExtensionSummator](https://github.com/paddy-exe/GDExtensionSummator)模板) 。
 
-> **Note:** This project is not meant to be a dependency. It is intended to be copied (not forked) and made into your own project. Git itself doesn't provide a nice way to do this (as far as I can tell), but GitHub provides a **Use this template** button (beside where you clone a repo). This will [create a copy for you](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) without all the history.
-
 > **注意** 使用本时项目不要作为项目依赖，应当直接被复制使用，而不是分支的形式。通常 Git 并不擅长将一个项目的部分内容作为另一个项目的依赖项。 GitHub 提供了 **使用模板** 的按钮，在克隆仓库的旁边。这可以[创建一个没有所有历史记录的副本](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)。
 
 ## 功能特性
